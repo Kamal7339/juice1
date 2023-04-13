@@ -81,7 +81,7 @@ section{
 #About h1{
     font-size: 50px;
     font-weight: 800px;
-    position: relative;right: 55px;
+    
     
     
 }
@@ -91,7 +91,7 @@ section{
     width: 300px;
     height: 300px;
     margin-right: 150px;
-    position: relative;left: 150px;
+   
     border-style: groove;
 }
 /****product****/
